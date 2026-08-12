@@ -1,0 +1,15 @@
+User Story
+
+As a registered user,
+
+I want to login using email and password
+
+So that I can access my dashboard.
+
+Acceptance Criteria
+
+1. Valid email and password should login successfully.
+2. Invalid password should display an error.
+3. Locked users cannot login.
+4. Email is mandatory.
+5. Password is mandatory.
